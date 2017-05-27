@@ -1,5 +1,7 @@
 package com.github.sameer_s.sbscorer;
 
+import com.github.sameer_s.sbscorer.question.QuestionParser;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
